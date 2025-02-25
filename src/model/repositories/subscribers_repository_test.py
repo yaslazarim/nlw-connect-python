@@ -28,3 +28,4 @@ def test_ranking():
 
     for elem in resp:
         print(f"Link: {elem.link}, total de inscritos {elem.total}")
+
